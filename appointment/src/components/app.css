@@ -1,0 +1,44 @@
+.company_details {
+  margin-top: 4%;
+  border-radius: 6px;
+  background-color: #d9def0;
+  height: 46px;
+}
+
+.tableCard {
+  display: flex;
+  width: 60%;
+  margin-left: 18%;
+  margin-top: 2%;
+}
+
+.strip {
+  text-align: center;
+  padding-top: 12px;
+}
+
+.docTitle {
+  text-align: center;
+  padding-top: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 40.94px;
+  color: #050fff;
+}
+
+.toggleYes {
+  background: #84f989;
+  width: 49px;
+  left: 296px;
+  border-radius: 7px;
+  opacity: 50%;
+}
+
+.toggleNo {
+  background: #f9e084;
+  width: 49px;
+  left: 296px;
+  border-radius: 7px;
+  opacity: 50%;
+}
